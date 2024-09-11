@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//GreetingText: this comment is test only for the purpose of Git
 @Composable
 fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
     Column(
